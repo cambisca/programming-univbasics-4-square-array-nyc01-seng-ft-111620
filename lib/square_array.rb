@@ -5,5 +5,5 @@ def square_array(array)
     puts Math.sqrt(array[counter])
     counter += 1 
   end
-  puts array 
+  array 
 end
